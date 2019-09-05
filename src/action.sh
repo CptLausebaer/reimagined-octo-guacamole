@@ -2,4 +2,4 @@
 
 
 # Hier wird Hallo Welt ausgegeben
-echo "Hallo Welt"
+echo "Hallo Welt!"
