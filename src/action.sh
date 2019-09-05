@@ -1,3 +1,5 @@
 #!/bin/sh
 
-echo "Hallo World"
+
+# Hier wird Hallo Welt ausgegeben
+echo "Hallo Welt"
